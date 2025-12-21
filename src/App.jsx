@@ -1000,7 +1000,6 @@ export default function LearnFromMe() {
               >
                 Login
               </button>
-              <p className="text-xs text-gray-500 mt-2">Demo password: admin123</p>
             </div>
           )}
 
