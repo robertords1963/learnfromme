@@ -192,7 +192,7 @@ export default function LearnFromMe() {
       problemCategory: 'Family',
       solution: 'Set boundaries and had direct conversation about impact of their behavior',
       result: 'Some improvement in punctuality, learned to manage expectations better',
-      resultCategory: 'improved',
+      resultCategory: 'worked',
       author: '',
       avgRating: 3.6,
       totalRatings: 58,
@@ -343,7 +343,7 @@ export default function LearnFromMe() {
       problemCategory: 'Well-being',
       solution: 'Tried different approaches instead of repeating same failed method',
       result: 'Learned that journey matters more than destination, failure is part of success',
-      resultCategory: 'improved',
+      resultCategory: 'worked',
       author: '',
       avgRating: 3.7,
       totalRatings: 92,
@@ -379,7 +379,7 @@ export default function LearnFromMe() {
       problemCategory: 'Family',
       solution: 'Found support through sharing anonymously, connected with others facing similar issues',
       result: 'Gained perspective and coping strategies from community support',
-      resultCategory: 'improved',
+      resultCategory: 'worked',
       avgRating: 3.8,
       totalRatings: 64,
       author: '',
@@ -475,7 +475,7 @@ export default function LearnFromMe() {
       problemCategory: 'Work',
       solution: 'Community tried moderation reforms, quality standards, reputation systems',
       result: 'Partial improvement but culture damage persisted, AI later disrupted further',
-      resultCategory: 'improved',
+      resultCategory: 'worked',
       author: '',
       avgRating: 2.8,
       totalRatings: 112,
@@ -779,7 +779,7 @@ export default function LearnFromMe() {
       problemCategory: 'Finance',
       solution: 'Pulled all three credit reports, found identity theft - someone opened 5 credit cards',
       result: 'Filed police report and disputes, score restored after 6 months',
-      resultCategory: 'improved',
+      resultCategory: 'worked',
       author: '',
       avgRating: 4.3,
       totalRatings: 98,
@@ -803,7 +803,7 @@ export default function LearnFromMe() {
       problemCategory: 'Family',
       solution: 'Doctor wrote letter recommending license surrender, offered to be personal driver',
       result: 'Parent reluctantly agreed, relationship improved through quality time together',
-      resultCategory: 'improved',
+      resultCategory: 'worked',
       author: '',
       age: '41-60',
       avgRating: 4.1,
@@ -914,7 +914,7 @@ export default function LearnFromMe() {
       problemCategory: 'Relationship',
       solution: 'Had honest conversation about feeling betrayed and needing space',
       result: 'Friend apologized, ended relationship with ex, friendship eventually recovered',
-      resultCategory: 'improved',
+      resultCategory: 'worked',
       author: '',
       avgRating: 3.9,
       totalRatings: 72,
@@ -1133,7 +1133,7 @@ export default function LearnFromMe() {
       problemCategory: 'Family',
       solution: 'Set up family meeting with therapist, established screen time limits with rewards',
       result: 'Gaming reduced to 2 hours, grades improved, communication better',
-      resultCategory: 'improved',
+      resultCategory: 'worked',
       author: '',
       avgRating: 4.2,
       totalRatings: 94,
@@ -1216,8 +1216,8 @@ export default function LearnFromMe() {
   
   const resultCategories = [
     { value: 'worked', label: 'Worked', color: 'bg-green-100 text-green-800' },
-    { value: 'no-change', label: 'No change', color: 'bg-yellow-100 text-yellow-800' },
-    { value: 'improved', label: 'Got worse', color: 'bg-red-100 text-red-800' }
+    { value: 'no-change', label: 'No Change', color: 'bg-yellow-100 text-yellow-800' },
+    { value: 'got-worse', label: 'Got Worse', color: 'bg-red-100 text-red-800' }
   ];
 
   const handleSubmit = () => {
