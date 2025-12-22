@@ -1183,8 +1183,8 @@ export default function LearnFromMe() {
       result: 'Pain levels remained the same, no noticeable improvement in mobility',
       resultCategory: 'no-change',
       author: '',
-      avgRating: 2.1,
-      totalRatings: 45,
+      avgRating: 4.6,
+      totalRatings: 174,
       comments: []
     },
     {
@@ -1197,8 +1197,8 @@ export default function LearnFromMe() {
       author: '',
       gender: 'Female',
       age: '41-60',
-      avgRating: 1.8,
-      totalRatings: 67,
+      avgRating: 4.0,
+      totalRatings: 144,
       comments: []
     },
     {
@@ -1209,8 +1209,8 @@ export default function LearnFromMe() {
       result: 'Behavior unchanged, still constantly on phone during quality time',
       resultCategory: 'no-change',
       author: '',
-      avgRating: 2.3,
-      totalRatings: 52,
+      avgRating: 4.0,
+      totalRatings: 190,
       comments: []
     },
     {
@@ -1221,8 +1221,8 @@ export default function LearnFromMe() {
       result: 'Relationship deteriorated significantly, son became more withdrawn and hostile',
       resultCategory: 'got-worse',
       author: '',
-      avgRating: 1.6,
-      totalRatings: 78,
+      avgRating: 4.4,
+      totalRatings: 175,
       comments: []
     },
     {
@@ -1233,8 +1233,8 @@ export default function LearnFromMe() {
       result: 'Supervisor aware but took no action, situation continues unchanged',
       resultCategory: 'no-change',
       author: '',
-      avgRating: 2.4,
-      totalRatings: 41,
+      avgRating: 4.8,
+      totalRatings: 187,
       comments: []
     },
     {
@@ -1247,8 +1247,8 @@ export default function LearnFromMe() {
       author: '',
       gender: 'Male',
       age: '21-40',
-      avgRating: 1.5,
-      totalRatings: 92,
+      avgRating: 4.4,
+      totalRatings: 169,
       comments: []
     },
     {
@@ -1259,8 +1259,8 @@ export default function LearnFromMe() {
       result: 'Migraines continued at same frequency despite dietary changes',
       resultCategory: 'no-change',
       author: '',
-      avgRating: 2.2,
-      totalRatings: 56,
+      avgRating: 4.5,
+      totalRatings: 120,
       comments: []
     },
     {
@@ -1271,8 +1271,8 @@ export default function LearnFromMe() {
       result: 'Continued spending on credit cards, now have both loan and new debt',
       resultCategory: 'got-worse',
       author: '',
-      avgRating: 1.7,
-      totalRatings: 83,
+      avgRating: 4.7,
+      totalRatings: 163,
       comments: []
     },
     {
@@ -1283,8 +1283,8 @@ export default function LearnFromMe() {
       result: 'Energy levels remained unchanged, still exhausted daily',
       resultCategory: 'no-change',
       author: '',
-      avgRating: 2.0,
-      totalRatings: 48,
+      avgRating: 4.7,
+      totalRatings: 136,
       comments: []
     },
     {
@@ -1295,8 +1295,8 @@ export default function LearnFromMe() {
       result: 'Neighbor retaliated by keying my car, situation escalated',
       resultCategory: 'got-worse',
       author: '',
-      avgRating: 1.4,
-      totalRatings: 71,
+      avgRating: 4.3,
+      totalRatings: 194,
       comments: []
     },
     {
@@ -1307,8 +1307,8 @@ export default function LearnFromMe() {
       result: 'Still procrastinating at same level, just with organized lists',
       resultCategory: 'no-change',
       author: '',
-      avgRating: 2.1,
-      totalRatings: 39,
+      avgRating: 4.4,
+      totalRatings: 176,
       comments: []
     },
     {
@@ -1320,8 +1320,8 @@ export default function LearnFromMe() {
       resultCategory: 'got-worse',
       author: '',
       age: '61-Up',
-      avgRating: 1.6,
-      totalRatings: 88,
+      avgRating: 4.0,
+      totalRatings: 151,
       comments: []
     },
     {
@@ -1332,8 +1332,8 @@ export default function LearnFromMe() {
       result: 'Acne unchanged, spent hundreds on products with no results',
       resultCategory: 'no-change',
       author: '',
-      avgRating: 2.3,
-      totalRatings: 44,
+      avgRating: 4.1,
+      totalRatings: 197,
       comments: []
     },
     {
@@ -1346,8 +1346,8 @@ export default function LearnFromMe() {
       author: '',
       gender: 'Female',
       age: '41-60',
-      avgRating: 1.5,
-      totalRatings: 94,
+      avgRating: 4.0,
+      totalRatings: 178,
       comments: []
     },
     {
@@ -1358,8 +1358,8 @@ export default function LearnFromMe() {
       result: 'Still avoiding social situations, no actual change in behavior',
       resultCategory: 'no-change',
       author: '',
-      avgRating: 2.0,
-      totalRatings: 51,
+      avgRating: 4.3,
+      totalRatings: 160,
       comments: []
     },
     {
@@ -1370,8 +1370,8 @@ export default function LearnFromMe() {
       result: 'Arguments intensified, resentment built up, relationship worse than before',
       resultCategory: 'got-worse',
       author: '',
-      avgRating: 1.3,
-      totalRatings: 76,
+      avgRating: 4.4,
+      totalRatings: 163,
       comments: []
     },
     {
@@ -1382,8 +1382,8 @@ export default function LearnFromMe() {
       result: 'Dog still barking at same level according to neighbors',
       resultCategory: 'no-change',
       author: '',
-      avgRating: 2.2,
-      totalRatings: 38,
+      avgRating: 4.7,
+      totalRatings: 121,
       comments: []
     },
     {
@@ -1394,8 +1394,8 @@ export default function LearnFromMe() {
       result: 'Became exhausted, concentration worse, productivity declined further',
       resultCategory: 'got-worse',
       author: '',
-      avgRating: 1.7,
-      totalRatings: 69,
+      avgRating: 4.4,
+      totalRatings: 198,
       comments: []
     },
     {
@@ -1406,8 +1406,8 @@ export default function LearnFromMe() {
       result: 'Friend still distant, no explanation provided, friendship unchanged',
       resultCategory: 'no-change',
       author: '',
-      avgRating: 2.1,
-      totalRatings: 47,
+      avgRating: 4.2,
+      totalRatings: 191,
       comments: []
     },
     {
@@ -1418,8 +1418,8 @@ export default function LearnFromMe() {
       result: 'Pain spread to shoulders and upper back, now requiring medical treatment',
       resultCategory: 'got-worse',
       author: '',
-      avgRating: 1.4,
-      totalRatings: 81,
+      avgRating: 4.1,
+      totalRatings: 191,
       comments: []
     },
     {
@@ -1430,8 +1430,8 @@ export default function LearnFromMe() {
       result: 'Multiple hard inquiries, score remained the same',
       resultCategory: 'no-change',
       author: '',
-      avgRating: 2.3,
-      totalRatings: 42,
+      avgRating: 4.5,
+      totalRatings: 197,
       comments: []
     },
     {
@@ -1442,8 +1442,8 @@ export default function LearnFromMe() {
       result: 'Teen rebelled more, started sneaking out completely',
       resultCategory: 'got-worse',
       author: '',
-      avgRating: 1.6,
-      totalRatings: 73,
+      avgRating: 4.7,
+      totalRatings: 189,
       comments: []
     },
     {
@@ -1454,8 +1454,8 @@ export default function LearnFromMe() {
       result: 'Still in same job, same feelings, no actual steps taken',
       resultCategory: 'no-change',
       author: '',
-      avgRating: 2.0,
-      totalRatings: 35,
+      avgRating: 4.4,
+      totalRatings: 158,
       comments: []
     },
     {
@@ -1468,8 +1468,8 @@ export default function LearnFromMe() {
       author: '',
       gender: 'Male',
       age: '21-40',
-      avgRating: 1.2,
-      totalRatings: 102,
+      avgRating: 4.4,
+      totalRatings: 195,
       comments: []
     },
     {
@@ -1480,8 +1480,8 @@ export default function LearnFromMe() {
       result: 'Skin condition unchanged, flare-ups at same frequency',
       resultCategory: 'no-change',
       author: '',
-      avgRating: 2.2,
-      totalRatings: 49,
+      avgRating: 4.4,
+      totalRatings: 173,
       comments: []
     },
     {
@@ -1492,8 +1492,8 @@ export default function LearnFromMe() {
       result: 'More clutter, now have boxes of unused organizing supplies too',
       resultCategory: 'got-worse',
       author: '',
-      avgRating: 1.5,
-      totalRatings: 66,
+      avgRating: 4.5,
+      totalRatings: 161,
       comments: []
     },
     {
@@ -1504,8 +1504,8 @@ export default function LearnFromMe() {
       result: 'Family still interrupting, sign ignored',
       resultCategory: 'no-change',
       author: '',
-      avgRating: 2.1,
-      totalRatings: 37,
+      avgRating: 4.3,
+      totalRatings: 174,
       comments: []
     },
     {
@@ -1516,8 +1516,8 @@ export default function LearnFromMe() {
       result: 'Partner withdrew more, communication broke down completely',
       resultCategory: 'got-worse',
       author: '',
-      avgRating: 1.4,
-      totalRatings: 79,
+      avgRating: 4.1,
+      totalRatings: 124,
       comments: []
     },
     {
@@ -1528,8 +1528,8 @@ export default function LearnFromMe() {
       result: 'Symptoms continued at same severity, no relief experienced',
       resultCategory: 'no-change',
       author: '',
-      avgRating: 2.0,
-      totalRatings: 53,
+      avgRating: 4.4,
+      totalRatings: 166,
       comments: []
     },
     {
@@ -1541,8 +1541,8 @@ export default function LearnFromMe() {
       resultCategory: 'got-worse',
       author: '',
       age: '41-60',
-      avgRating: 1.6,
-      totalRatings: 84,
+      avgRating: 4.2,
+      totalRatings: 153,
       comments: []
     },
     {
@@ -1553,8 +1553,8 @@ export default function LearnFromMe() {
       result: 'Still taking same amount of time to fall asleep',
       resultCategory: 'no-change',
       author: '',
-      avgRating: 2.1,
-      totalRatings: 46,
+      avgRating: 4.6,
+      totalRatings: 189,
       comments: []
     },
     {
@@ -1565,8 +1565,8 @@ export default function LearnFromMe() {
       result: 'Felt more isolated and inadequate, loneliness intensified',
       resultCategory: 'got-worse',
       author: '',
-      avgRating: 1.5,
-      totalRatings: 91,
+      avgRating: 4.1,
+      totalRatings: 135,
       comments: []
     },
     {
@@ -1577,8 +1577,8 @@ export default function LearnFromMe() {
       result: 'Still no diagnosis, noise continues, no solution found',
       resultCategory: 'no-change',
       author: '',
-      avgRating: 2.2,
-      totalRatings: 33,
+      avgRating: 4.7,
+      totalRatings: 154,
       comments: []
     },
     {
@@ -1589,8 +1589,8 @@ export default function LearnFromMe() {
       result: 'Children learned to manipulate disagreements, relationship damaged severely',
       resultCategory: 'got-worse',
       author: '',
-      avgRating: 1.3,
-      totalRatings: 77,
+      avgRating: 4.7,
+      totalRatings: 200,
       comments: []
     },
     {
@@ -1601,8 +1601,8 @@ export default function LearnFromMe() {
       result: 'Dandruff persisted at same level with all products',
       resultCategory: 'no-change',
       author: '',
-      avgRating: 2.0,
-      totalRatings: 40,
+      avgRating: 4.0,
+      totalRatings: 125,
       comments: []
     },
     {
@@ -1613,8 +1613,8 @@ export default function LearnFromMe() {
       result: 'Anxiety worsened, became obsessed, lost sleep over market fluctuations',
       resultCategory: 'got-worse',
       author: '',
-      avgRating: 1.6,
-      totalRatings: 68,
+      avgRating: 4.1,
+      totalRatings: 160,
       comments: []
     },
     {
@@ -1625,8 +1625,8 @@ export default function LearnFromMe() {
       result: 'Living situation remained unchanged, tension increased',
       resultCategory: 'no-change',
       author: '',
-      avgRating: 2.1,
-      totalRatings: 36,
+      avgRating: 4.8,
+      totalRatings: 141,
       comments: []
     },
     {
@@ -1639,8 +1639,8 @@ export default function LearnFromMe() {
       author: '',
       gender: 'Male',
       age: '21-40',
-      avgRating: 1.4,
-      totalRatings: 86,
+      avgRating: 4.6,
+      totalRatings: 122,
       comments: []
     },
     {
@@ -1651,8 +1651,8 @@ export default function LearnFromMe() {
       result: 'Still working same hours, no actual changes implemented',
       resultCategory: 'no-change',
       author: '',
-      avgRating: 2.0,
-      totalRatings: 44,
+      avgRating: 4.2,
+      totalRatings: 168,
       comments: []
     },
     {
@@ -1663,8 +1663,8 @@ export default function LearnFromMe() {
       result: 'Child became resistant to reading, performance declined further',
       resultCategory: 'got-worse',
       author: '',
-      avgRating: 1.5,
-      totalRatings: 72,
+      avgRating: 4.8,
+      totalRatings: 187,
       comments: []
     },
     {
@@ -1675,8 +1675,8 @@ export default function LearnFromMe() {
       result: 'Dates felt forced and awkward, emotional distance unchanged',
       resultCategory: 'no-change',
       author: '',
-      avgRating: 2.2,
-      totalRatings: 50,
+      avgRating: 4.1,
+      totalRatings: 153,
       comments: []
     },
     {
@@ -1687,8 +1687,8 @@ export default function LearnFromMe() {
       result: 'Developed dependency on medication, underlying issue worsened',
       resultCategory: 'got-worse',
       author: '',
-      avgRating: 1.7,
-      totalRatings: 63,
+      avgRating: 4.2,
+      totalRatings: 158,
       comments: []
     },
     {
@@ -1699,8 +1699,8 @@ export default function LearnFromMe() {
       result: 'Still addicted to nicotine, just different delivery method',
       resultCategory: 'no-change',
       author: '',
-      avgRating: 2.1,
-      totalRatings: 58,
+      avgRating: 4.2,
+      totalRatings: 190,
       comments: []
     },
     {
@@ -1711,8 +1711,8 @@ export default function LearnFromMe() {
       result: 'Missed important emails, created new problems, inbox filled up again',
       resultCategory: 'got-worse',
       author: '',
-      avgRating: 1.4,
-      totalRatings: 55,
+      avgRating: 4.7,
+      totalRatings: 135,
       comments: []
     },
     {
@@ -1723,8 +1723,8 @@ export default function LearnFromMe() {
       result: 'Still not being included, feeling more isolated',
       resultCategory: 'no-change',
       author: '',
-      avgRating: 2.0,
-      totalRatings: 41,
+      avgRating: 4.2,
+      totalRatings: 189,
       comments: []
     },
     {
@@ -1735,8 +1735,8 @@ export default function LearnFromMe() {
       result: 'Child became angry and resentful, relationship damaged, found ways to game secretly',
       resultCategory: 'got-worse',
       author: '',
-      avgRating: 1.3,
-      totalRatings: 89,
+      avgRating: 4.1,
+      totalRatings: 121,
       comments: []
     },
     {
@@ -1747,8 +1747,8 @@ export default function LearnFromMe() {
       result: 'Developed caffeine dependency, energy crashes worse than before',
       resultCategory: 'got-worse',
       author: '',
-      avgRating: 1.6,
-      totalRatings: 74,
+      avgRating: 4.3,
+      totalRatings: 164,
       comments: []
     },
     {
@@ -1759,8 +1759,8 @@ export default function LearnFromMe() {
       result: 'Several months passed, still no budget, spending unchanged',
       resultCategory: 'no-change',
       author: '',
-      avgRating: 2.1,
-      totalRatings: 39,
+      avgRating: 4.0,
+      totalRatings: 127,
       comments: []
     },
     {
@@ -1773,8 +1773,8 @@ export default function LearnFromMe() {
       author: '',
       gender: 'Female',
       age: '21-40',
-      avgRating: 1.5,
-      totalRatings: 82,
+      avgRating: 4.0,
+      totalRatings: 142,
       comments: []
     },
     {
@@ -1785,8 +1785,8 @@ export default function LearnFromMe() {
       result: 'Still in same position, reputation as complainer, no progress',
       resultCategory: 'no-change',
       author: '',
-      avgRating: 2.0,
-      totalRatings: 43,
+      avgRating: 4.1,
+      totalRatings: 136,
       comments: []
     },
     {
@@ -1811,8 +1811,8 @@ export default function LearnFromMe() {
       result: 'Venue owner became defensive, no resolution, lost deposit',
       resultCategory: 'got-worse',
       author: '',
-      avgRating: 1.5,
-      totalRatings: 61,
+      avgRating: 4.0,
+      totalRatings: 156,
       comments: []
     },
     {
@@ -1835,8 +1835,8 @@ export default function LearnFromMe() {
       result: 'Tinnitus volume unchanged, still same level of disturbance',
       resultCategory: 'no-change',
       author: '',
-      avgRating: 2.1,
-      totalRatings: 47,
+      avgRating: 4.8,
+      totalRatings: 169,
       comments: []
     },
     {
@@ -1859,8 +1859,8 @@ export default function LearnFromMe() {
       result: 'Now owed even more money, relationship strained, still no repayment',
       resultCategory: 'got-worse',
       author: '',
-      avgRating: 1.4,
-      totalRatings: 73,
+      avgRating: 4.0,
+      totalRatings: 199,
       comments: []
     },
     {
@@ -1883,8 +1883,8 @@ export default function LearnFromMe() {
       result: 'Parties continue, neighbors now hostile, situation more tense',
       resultCategory: 'got-worse',
       author: '',
-      avgRating: 1.6,
-      totalRatings: 68,
+      avgRating: 4.3,
+      totalRatings: 132,
       comments: []
     },
     {
@@ -1908,8 +1908,8 @@ export default function LearnFromMe() {
       result: 'No regrowth after 6 months, thinning continues at same rate',
       resultCategory: 'no-change',
       author: '',
-      avgRating: 2.0,
-      totalRatings: 54,
+      avgRating: 4.8,
+      totalRatings: 169,
       comments: []
     },
     {
@@ -1944,8 +1944,8 @@ export default function LearnFromMe() {
       result: 'Redownloaded apps within a week, usage patterns unchanged',
       resultCategory: 'no-change',
       author: '',
-      avgRating: 2.2,
-      totalRatings: 51,
+      avgRating: 4.6,
+      totalRatings: 151,
       comments: []
     },
     {
@@ -1956,8 +1956,8 @@ export default function LearnFromMe() {
       result: 'Kitchen became unusable disaster, resentment escalated, relationship damaged',
       resultCategory: 'got-worse',
       author: '',
-      avgRating: 1.3,
-      totalRatings: 79,
+      avgRating: 4.4,
+      totalRatings: 166,
       comments: []
     },
     {
@@ -1994,8 +1994,8 @@ export default function LearnFromMe() {
       result: 'Pain returned immediately when resumed running, no improvement',
       resultCategory: 'no-change',
       author: '',
-      avgRating: 2.1,
-      totalRatings: 44,
+      avgRating: 4.3,
+      totalRatings: 200,
       comments: []
     },
     {
@@ -2018,8 +2018,8 @@ export default function LearnFromMe() {
       result: 'Teen became more secretive, started lying about whereabouts, drinking increased',
       resultCategory: 'got-worse',
       author: '',
-      avgRating: 1.5,
-      totalRatings: 82,
+      avgRating: 4.4,
+      totalRatings: 189,
       comments: []
     },
     {
@@ -2043,8 +2043,8 @@ export default function LearnFromMe() {
       resultCategory: 'got-worse',
       author: '',
       age: '41-60',
-      avgRating: 1.6,
-      totalRatings: 91,
+      avgRating: 4.7,
+      totalRatings: 152,
       comments: []
     },
     {
@@ -2067,8 +2067,8 @@ export default function LearnFromMe() {
       result: 'Still scrolling during allotted time, mental health unchanged',
       resultCategory: 'no-change',
       author: '',
-      avgRating: 2.0,
-      totalRatings: 56,
+      avgRating: 4.4,
+      totalRatings: 163,
       comments: []
     },
     {
@@ -2091,8 +2091,8 @@ export default function LearnFromMe() {
       result: 'Became workplace pariah, exclusion intensified, HR involved',
       resultCategory: 'got-worse',
       author: '',
-      avgRating: 1.4,
-      totalRatings: 67,
+      avgRating: 4.5,
+      totalRatings: 185,
       comments: []
     },
     {
@@ -2127,8 +2127,8 @@ export default function LearnFromMe() {
       result: 'No change in symptoms after 3 months of consistent use',
       resultCategory: 'no-change',
       author: '',
-      avgRating: 2.1,
-      totalRatings: 49,
+      avgRating: 4.5,
+      totalRatings: 143,
       comments: []
     },
     {
@@ -2151,8 +2151,8 @@ export default function LearnFromMe() {
       result: 'Clutter reorganized into containers, still same amount of stuff',
       resultCategory: 'no-change',
       author: '',
-      avgRating: 2.0,
-      totalRatings: 42,
+      avgRating: 4.0,
+      totalRatings: 186,
       comments: []
     },
     {
@@ -2175,8 +2175,8 @@ export default function LearnFromMe() {
       result: 'Airline blacklisted from future compensation, no resolution',
       resultCategory: 'got-worse',
       author: '',
-      avgRating: 1.5,
-      totalRatings: 58,
+      avgRating: 4.6,
+      totalRatings: 149,
       comments: []
     },
     {
@@ -2213,8 +2213,8 @@ export default function LearnFromMe() {
       result: 'No improvement in breath odor, still self-conscious',
       resultCategory: 'no-change',
       author: '',
-      avgRating: 2.1,
-      totalRatings: 38,
+      avgRating: 4.2,
+      totalRatings: 146,
       comments: []
     },
     {
@@ -2237,8 +2237,8 @@ export default function LearnFromMe() {
       result: 'Friendship faded away, lost connection completely',
       resultCategory: 'got-worse',
       author: '',
-      avgRating: 1.7,
-      totalRatings: 63,
+      avgRating: 4.2,
+      totalRatings: 190,
       comments: []
     },
     {
@@ -2287,8 +2287,8 @@ export default function LearnFromMe() {
       result: 'Bullying escalated, mental health declined, still no resolution',
       resultCategory: 'got-worse',
       author: '',
-      avgRating: 1.4,
-      totalRatings: 84,
+      avgRating: 4.1,
+      totalRatings: 139,
       comments: []
     },
     {
@@ -2323,8 +2323,8 @@ export default function LearnFromMe() {
       result: 'Still not going, wasted another year of payments',
       resultCategory: 'no-change',
       author: '',
-      avgRating: 2.0,
-      totalRatings: 55,
+      avgRating: 4.1,
+      totalRatings: 168,
       comments: []
     },
     {
@@ -2359,8 +2359,8 @@ export default function LearnFromMe() {
       result: 'Partner chose friends, relationship ended badly',
       resultCategory: 'got-worse',
       author: '',
-      avgRating: 1.3,
-      totalRatings: 95,
+      avgRating: 4.3,
+      totalRatings: 142,
       comments: []
     },
     {
@@ -2395,8 +2395,8 @@ export default function LearnFromMe() {
       result: 'Cough continued unchanged for months, suppressants ineffective',
       resultCategory: 'no-change',
       author: '',
-      avgRating: 2.1,
-      totalRatings: 46,
+      avgRating: 4.8,
+      totalRatings: 174,
       comments: []
     },
     {
@@ -2419,8 +2419,8 @@ export default function LearnFromMe() {
       result: 'Tantrums increased in frequency and intensity, behavior worsened',
       resultCategory: 'got-worse',
       author: '',
-      avgRating: 1.5,
-      totalRatings: 88,
+      avgRating: 4.0,
+      totalRatings: 187,
       comments: []
     },
     {
@@ -2455,8 +2455,8 @@ export default function LearnFromMe() {
       result: 'Infection unchanged, still itchy and uncomfortable',
       resultCategory: 'no-change',
       author: '',
-      avgRating: 2.0,
-      totalRatings: 41,
+      avgRating: 4.6,
+      totalRatings: 178,
       comments: []
     },
     {
@@ -2479,8 +2479,8 @@ export default function LearnFromMe() {
       result: 'Harassment intensified, had to get restraining order',
       resultCategory: 'got-worse',
       author: '',
-      avgRating: 1.4,
-      totalRatings: 76,
+      avgRating: 4.1,
+      totalRatings: 194,
       comments: []
     },
     {
@@ -2527,8 +2527,8 @@ export default function LearnFromMe() {
       result: 'Still stress eating, weight continues to increase',
       resultCategory: 'no-change',
       author: '',
-      avgRating: 2.1,
-      totalRatings: 52,
+      avgRating: 4.4,
+      totalRatings: 159,
       comments: []
     },
     {
@@ -2552,8 +2552,8 @@ export default function LearnFromMe() {
       resultCategory: 'got-worse',
       author: '',
       age: '41-60',
-      avgRating: 1.6,
-      totalRatings: 103,
+      avgRating: 4.8,
+      totalRatings: 182,
       comments: []
     },
     {
@@ -2576,8 +2576,8 @@ export default function LearnFromMe() {
       result: 'Resentment built up, spiritual connection worsened',
       resultCategory: 'got-worse',
       author: '',
-      avgRating: 1.7,
-      totalRatings: 58,
+      avgRating: 4.1,
+      totalRatings: 168,
       comments: []
     },
     {
@@ -2624,8 +2624,8 @@ export default function LearnFromMe() {
       result: 'Fatigue unchanged, money wasted on ineffective supplements',
       resultCategory: 'no-change',
       author: '',
-      avgRating: 2.0,
-      totalRatings: 47,
+      avgRating: 4.2,
+      totalRatings: 191,
       comments: []
     },
     {
@@ -2684,8 +2684,8 @@ export default function LearnFromMe() {
       result: 'Still procrastinating, apps unused, no change in habits',
       resultCategory: 'no-change',
       author: '',
-      avgRating: 2.1,
-      totalRatings: 39,
+      avgRating: 4.4,
+      totalRatings: 200,
       comments: []
     },
     {
