@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Share2, TrendingUp, AlertCircle, Star, MessageCircle, Send, Shield, Trash2, Search } from 'lucide-react';
 
-export default function LearnFromMe() {
+export default function HowWas() {
   const [isAdmin, setIsAdmin] = useState(false);
   const [adminPassword, setAdminPassword] = useState('');
   const [showAdminLogin, setShowAdminLogin] = useState(false);
@@ -4417,7 +4417,7 @@ export default function LearnFromMe() {
             <div className="flex-1"></div>
             <h1 className="text-4xl font-bold text-gray-800 mb-2 flex items-center justify-center gap-3">
               <Share2 className="text-purple-600" size={36} />
-              LearnFromMe
+              HowWas
             </h1>
             <div className="flex-1 flex justify-end">
               {!isAdmin ? (
