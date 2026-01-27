@@ -1,6 +1,7 @@
 
 import React, { useState, useEffect } from 'react';
 import { Share2, TrendingUp, AlertCircle, Star, MessageCircle, Send, Shield, Trash2, Search, Users, Target } from 'lucide-react';
+import { Analytics } from '@vercel/analytics/react';
 import { createClient } from '@supabase/supabase-js'; 
 
 const supabaseUrl = 'https://vtnzsyrojybyfeenkave.supabase.co'; 
@@ -3050,6 +3051,7 @@ onClick={() => {
         </footer>
       </div>
     </div>
+    <Analytics />
     </>
   );
 }
